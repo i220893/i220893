@@ -57,8 +57,8 @@ I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) speci
 
 ## 📊 GitHub Stats
 
-[![Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i220893&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/i220893)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i220893&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/i220893)
+[![Hussain's GitHub Metrics](https://metrics.lecoq.io/i220893)](https://github.com/i220893)
+[![Hussain's GitHub Streak](https://streak-stats.demolab.com/?user=i220893&theme=radical&hide_border=true)](https://github.com/i220893)
 
 <!--
 **i220893/i220893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
