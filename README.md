@@ -53,6 +53,7 @@ I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) speci
 - **[ISP-Network-Simulation](https://github.com/i220893/ISP-Network-Simulation):** Low-level network simulation and modeling.
 
 ### 🌐 Full-Stack & Utility
+- **[Shape of You Fitness App](https://github.com/i220893/shape-of-you-fitness-app):** A full-featured JavaFX & MS SQL Server desktop fitness management suite featuring dual member/trainer portals, custom workout & nutrition splits, biometrics analytics, and consultation channels.
 - **[Project-Montage-The-Writer-s-Room](https://github.com/i220893/Project-Montage-The-Writer-s-Room):** Collaborative Python application for writers.
 - **[MeetSync](https://github.com/i220893/MeetSync):** JavaScript-based application for scheduling and coordination.
 - **[JSON-to-XML-Translator](https://github.com/i220893/JSON-to-XML-Translator):** Efficient Java-based data format translator.
