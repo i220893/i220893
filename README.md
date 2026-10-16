@@ -66,9 +66,11 @@ I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) speci
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/i220893"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i220893&layout=compact&theme=radical&hide_border=true&hide=TeX" alt="Top Languages" /></a>
-  <a href="https://github.com/i220893"><img align="top" src="https://streak-stats.demolab.com/?user=i220893&theme=radical&hide_border=true" alt="Hussain's GitHub Streak" /></a>
+<p align="center">
+  <a href="https://github.com/i220893"><img src="https://streak-stats.demolab.com/?user=i220893&theme=radical&hide_border=true" alt="Hussain's GitHub Streak" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/i220893"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i220893&layout=compact&theme=radical&hide_border=true&hide=TeX" alt="Top Languages" /></a>
 </p>
 
 <!--
