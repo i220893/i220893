@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) specializing in **Generative AI**, **Agentic AI orchestration**, **distributed systems**, and robust **full-stack engineering**. I focus on building stateful, intelligent application ecosystems capable of handling real-world scale. 
+I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) specializing in **Generative AI**, **Agentic AI orchestration**, **distributed systems**, and robust **full-stack engineering**. I focus on building stateful, intelligent application ecosystems capable of handling real-world scale.
 
 - 🧠 **Generative & Agentic AI:** Advanced hands-on experience building production-ready applications with Large Language Models (LLMs), Multimodal RAG, generative diffusion models, and unpaired style translation (CycleGAN). Expert in fine-tuning pre-trained foundations (mBART-LoRA) and orchestrating autonomous, self-correcting multi-agent workflows using LangGraph and LangChain.
 - ⚙️ **Systems & Infrastructure:** Deeply experienced in high-performance parallel computing (OpenMP/MPI), compiler construction, and decentralized network architectures.
@@ -34,6 +34,7 @@ I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) speci
 ## 🚀 Highlighted Projects
 
 ### 🤖 Generative & Agentic AI
+
 - **[Automated-Animated-Video-Generation-System](https://github.com/i220893/Automated-Animated-Video-Generation-System):** A 5-agent LangGraph pipeline that converts a single text prompt into a fully composited MP4 video (story → voices → video) in ~4 minutes using Python, FastAPI, React, and SQLite.
 - **[Multimodal RAG Chatbot](https://github.com/i220893/multimodal-rag-chatbot):** A local RAG chatbot (PDFs + Images) utilizing ChromaDB, CLIP (ViT-B-32) cross-modal embeddings, and an Ollama-hosted LLM (Mistral-7B) supporting Zero-shot, Few-shot, and Chain-of-Thought prompts under a Streamlit UI.
 - **[Advanced GenAI Architectures](https://github.com/i220893/advanced-genai-architectures):** A suite of advanced generative models, including a custom CycleGAN for Photo ↔ Sketch translation (with a Flask app), English-to-Urdu Seq2Seq Translation (Transformer vs. mBART-LoRA PEFT), and Simple Diffusion Transformers (SiT-REG) for class-conditional image generation.
@@ -44,15 +45,18 @@ I am a Computer Science graduate from **FAST-NUCES Islamabad** (2022-2026) speci
 - **[AI-Research-Assistant](https://github.com/i220893/AI-Research-Assistant):** Intelligent research agent that synthesizes information leveraging modern Python-based AI frameworks.
 
 ### ⚛️ Quantum Computing & Parallel Systems
+
 - **[QCanvas](https://github.com/i220893/QCanvas):** Final Year Project – A unified, interactive quantum circuit simulation platform. Bridges frameworks (Cirq, Qiskit, PennyLane) through OpenQASM 3.0 with real-time state visualization. Built with Python, Next.js, and Compiler Design concepts.
 - **[Q-Tensor](https://github.com/i220893/Q-Tensor):** Julia-based project focusing on simulating quantum circuits using tensor networks (Matrix Product States) and implementing parallel algorithms to enhance performance.
 
 ### ⚙️ Systems, Compilers & Distributed Architecture
-- **Interplanetary File System (IPFS) Prototype:** Custom DHT-based prototype using circular linked-list routing and B-Tree file storage over a 160-bit SHA-address space in C++.
+
+- **[Interplanetary File System (IPFS) Prototype](https://github.com/i220893/distributed-ipfs-simulation):** Custom DHT-based prototype using circular linked-list routing and B-Tree file storage over a 160-bit SHA-address space in C++.
 - **[Lexical-Analyzer](https://github.com/i220893/Lexical-Analyzer) & [SLR-1-and-LR-1-Parser](https://github.com/i220893/SLR-1-and-LR-1-Parser):** Compiler construction projects in Java implementing custom Lexical Analyzers and Bottom-Up Parsers (SLR(1) & LR(1)).
 - **[ISP-Network-Simulation](https://github.com/i220893/ISP-Network-Simulation):** Low-level network simulation and modeling.
 
 ### 🌐 Full-Stack & Utility
+
 - **[Shape of You Fitness App](https://github.com/i220893/shape-of-you-fitness-app):** A full-featured JavaFX & MS SQL Server desktop fitness management suite featuring dual member/trainer portals, custom workout & nutrition splits, biometrics analytics, and consultation channels.
 - **[Project-Montage-The-Writer-s-Room](https://github.com/i220893/Project-Montage-The-Writer-s-Room):** Collaborative Python application for writers.
 - **[MeetSync](https://github.com/i220893/MeetSync):** JavaScript-based application for scheduling and coordination.
